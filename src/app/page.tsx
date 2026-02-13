@@ -44,7 +44,7 @@ export default function Home() {
                                     View Projects <ArrowRight className="ml-2 h-4 w-4" />
                                 </Button>
                             </Link>
-                            <Link href="/resume.pdf" target="_blank">
+                            <Link href="src/docs/Karthikeyan-Venkatesan-iOS-developer.pdf" target="_blank">
                                 <Button variant="outline" size="lg" className="rounded-full px-8 h-12 text-base backdrop-blur-sm bg-background/50">
                                     Download Resume <Download className="ml-2 h-4 w-4" />
                                 </Button>
